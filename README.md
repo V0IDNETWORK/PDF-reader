@@ -1,6 +1,6 @@
-# 🚀 NIP-READER
+# 🚀 PDF-READER
 
-**Author:** `niproot`  
+**Author:** `MR. Nothing`  
 **License:** MIT  
 **Language:** Python  
 **Version:** 1.0.0  
